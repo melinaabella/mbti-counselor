@@ -1,5 +1,5 @@
 # mbti-counselor
-a basic ass mbti-destressor generator
+a basic mbti-destressor generator
 
 1. The program takes in user input based off the information given in the mbti_keys.py file.
 2. The user's respective MBTI is assigned to the right information given in the table.py file.
